@@ -5,6 +5,7 @@
   * [Schedule](#schedule)
   * [Telegram Group](#telegram-group)
   * [Mapping Slots](#mapping-slots)
+  * [Arena](#arena)
   * [Names](#names)
   * [Additional Items](#additional-items)
   * [Robot Inspection](#robot-inspection)
@@ -31,6 +32,9 @@ Please join the telegram group for quick announcements: https://t.me/+0Nk_-3-pM7
 
 ## Mapping Slots
 
+## Arena
+![]https://github.com/RoboCupAtHome/PortugalOpen2023/blob/master/Maps/arena3d.jpg
+![]https://github.com/RoboCupAtHome/PortugalOpen2023/blob/master/Maps/location_names.jpg
 
 ## Names
 
