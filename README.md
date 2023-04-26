@@ -1,6 +1,6 @@
 # Tomar 2023
 
-- [Tomar 2023](#tomar-2022)
+- [Tomar 2023](#tomar-2023)
   * [Scores](#scores)
   * [Schedule](#schedule)
   * [Telegram Group](#telegram-group)
