@@ -79,11 +79,12 @@ Instruction Point
 
 
 ### Receptionist
-Startion Point
+Starting Point
 
 ![](https://github.com/RoboCupAtHome/PortugalOpen2023/blob/master/Maps/receptionist.jpg)
 
 Host Name: Michael
+
 Host Favorite Drink: Coke
 
 Doorbell Sound: Knocking
@@ -107,9 +108,8 @@ Instruction Point
 ### Restaurant
 
 ### Stickler for the Rules
-Starting Location
+Starting Point
 
 ![](https://github.com/RoboCupAtHome/PortugalOpen2023/blob/master/Maps/stickler_for_the_rules.jpg)
 
-
-Forbidden Room
+Forbidden Room: Bedroom
