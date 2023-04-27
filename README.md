@@ -47,10 +47,10 @@ Please join the telegram group for quick announcements: https://t.me/+0Nk_-3-pM7
 
 Cutlery is found on the Work Station  
 Drinks are found on the Desk  
-Fruits are found on the Kitchen Table
-Pantry Items are found on the Shelves
-Snacks are found on the TV Table
-Toys are found on the Side Table
+Fruits are found on the Kitchen Table  
+Pantry Items are found on the Shelves  
+Snacks are found on the TV Table  
+Toys are found on the Side Table  
 
 ## Names
 |Female Names|Male Names|
