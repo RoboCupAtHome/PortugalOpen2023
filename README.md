@@ -24,7 +24,16 @@
 
 
 ## Schedule
+### Setup Day 2
+17:00 - Robot Inspection
 
+Team Order:
+
+SocRob  
+LAR  
+TechUnited
+
+18:00 - Team Leader Meeting
 
 ## Telegram Group
 Please join the telegram group for quick announcements: https://t.me/+0Nk_-3-pM7JhMmRi
