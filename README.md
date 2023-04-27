@@ -92,9 +92,9 @@ Starting Point
 
 ![](https://github.com/RoboCupAtHome/PortugalOpen2023/blob/master/Maps/receptionist.jpg)
 
-Host Name: Michael
+Host Name: Charlie
 
-Host Favorite Drink: Coke
+Host Favorite Drink: iced tea
 
 Doorbell Sound: Knocking
 
