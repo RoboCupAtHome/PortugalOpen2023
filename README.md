@@ -24,6 +24,21 @@
 
 
 ## Schedule
+### Competition Day 1
+|Time|Test|
+| ------------- | ------------- |
+|09:00|Carry my Luggage|
+|10:00|Break|
+|11:30|Receptionist|
+|12:30|Break|
+|14:00|Serve Breakfast|
+|15:00|Break|
+|16:30|GPSR|
+|17:30|Break|
+|18:00|Team Leader Meeting|
+
+Team Order is the same as Inspection for every test
+
 ### Setup Day 2
 17:00 - Robot Inspection
 
