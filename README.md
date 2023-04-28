@@ -22,8 +22,37 @@
 
 ## Scores
 
+### Competition Day 1
+|Team|Test|Points|
+| ------------- | ------------- | ------------- |
+|TechUnited|Receptionist|400|
+|SocRob|Receptionist|275|
+|SocRob|Serve Breakfast|75|
+
+|Place|Team|Score|
+| ------------- | ------------- | ------------- |
+|1|TechUnited|400|
+|2|SocRob|350|
+|3|LAR|0|
+
+
 
 ## Schedule
+### Competition Day 2
+|Time|Test|
+| ------------- | ------------- |
+|09:00|Storing Groceries|
+|10:00|Break|
+|11:30|EGPSR|
+|12:30|Break|
+|14:00|Restaurant|
+|15:00|Break|
+|16:30|Stickler for the Rules|
+|17:30|Break|
+|18:00|Team Leader Meeting|
+
+Team Order is the same as Inspection for every test
+
 ### Competition Day 1
 |Time|Test|
 | ------------- | ------------- |
