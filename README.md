@@ -41,11 +41,9 @@
 ### Competition Day 3
 |Time|Test|
 | ------------- | ------------- |
-|08:30|Test Slot 1|
-|09:30|Break|
-|10:30|Test Slot 2|
-|11:30|Break|
-|12:00|Test Slot 3|
+|09:00|Test Slot 1|
+|10:00|Break|
+|11:30|Test Slot 2|
 |13:00|Break|
 |15:00|Closing and Award Ceremony|
 
