@@ -22,6 +22,18 @@
 
 ## Scores
 
+### Competition Day 2
+|Team|Test|Points|
+| ------------- | ------------- | ------------- |
+|TechUnited|Storing Groceries|180|
+|TechUnited|Restaurant|600|
+
+|Place|Team|Score|
+| ------------- | ------------- | ------------- |
+|1|TechUnited|1180|
+|2|SocRob|350|
+|3|LAR|0|
+
 ### Competition Day 1
 |Team|Test|Points|
 | ------------- | ------------- | ------------- |
