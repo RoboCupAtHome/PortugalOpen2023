@@ -22,6 +22,26 @@
 
 ## Scores
 
+### Final Result
+
+|Place|Team|
+| ------------- | ------------- |
+|1|TechUnited|
+|2|SocRob|
+|3|LAR|
+
+### Competition Day 3
+|Team|Test|Points|
+| ------------- | ------------- | ------------- |
+|LAR|Receptionist|400|
+|SocRob|Receptionist|350|
+
+|Place|Team|Score|
+| ------------- | ------------- | ------------- |
+|1|TechUnited|1180|
+|2|SocRob|425|
+|3|LAR|400|
+
 ### Competition Day 2
 |Team|Test|Points|
 | ------------- | ------------- | ------------- |
